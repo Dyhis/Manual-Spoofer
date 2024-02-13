@@ -14,3 +14,4 @@ Manual Spoofer using amidewin pretty bad but works ( dosent work on hp or dell
 4) After Running "spoof.bat" Open CMD As Administrator.
 5) In CMD Type "net stop winmgmt" Then "Y" To The Following Prompt.
 ---------------------------------------------------------------------------------
+# Password Is 123
