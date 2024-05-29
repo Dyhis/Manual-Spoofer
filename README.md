@@ -1,9 +1,9 @@
-# Manual-Spoofer
-Manual Spoofer using amidewin pretty bad but works ( dosent work on hp or dell 
+# Manual Amidewin
+Manual Amidewin (HP & DELL Not Supported)
 ---------------------------------------------------------------------------------
 # Instructions
-1) Click The Green "Code" Button & Download The Repo.
-2) Extract The Manual Spoof.rar.
+1) Download The Repo.
+2) Extract Manual Spoof.rar.
 3) Right Click On "spoof.bat" & replace [ Put Your File Directory Here! ] With Your File Directory.
 4) Do Not Remove cd from "cd [ Put Your File Directory Here! ]"
 ---------------------------------------------------------------------------------
